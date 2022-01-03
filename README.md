@@ -1,0 +1,1 @@
+# cut_fruits_project
